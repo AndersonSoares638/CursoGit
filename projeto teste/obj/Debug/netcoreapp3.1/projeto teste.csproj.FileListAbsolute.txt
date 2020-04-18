@@ -1,0 +1,13 @@
+C:\Users\AndersonSoares\Desktop\C# Completo 29.03.2020\seção 8\projeto teste\projeto teste\projeto teste\bin\Debug\netcoreapp3.1\projeto teste.exe
+C:\Users\AndersonSoares\Desktop\C# Completo 29.03.2020\seção 8\projeto teste\projeto teste\projeto teste\bin\Debug\netcoreapp3.1\projeto teste.deps.json
+C:\Users\AndersonSoares\Desktop\C# Completo 29.03.2020\seção 8\projeto teste\projeto teste\projeto teste\bin\Debug\netcoreapp3.1\projeto teste.runtimeconfig.json
+C:\Users\AndersonSoares\Desktop\C# Completo 29.03.2020\seção 8\projeto teste\projeto teste\projeto teste\bin\Debug\netcoreapp3.1\projeto teste.runtimeconfig.dev.json
+C:\Users\AndersonSoares\Desktop\C# Completo 29.03.2020\seção 8\projeto teste\projeto teste\projeto teste\bin\Debug\netcoreapp3.1\projeto teste.dll
+C:\Users\AndersonSoares\Desktop\C# Completo 29.03.2020\seção 8\projeto teste\projeto teste\projeto teste\bin\Debug\netcoreapp3.1\projeto teste.pdb
+C:\Users\AndersonSoares\Desktop\C# Completo 29.03.2020\seção 8\projeto teste\projeto teste\projeto teste\obj\Debug\netcoreapp3.1\projeto teste.csprojAssemblyReference.cache
+C:\Users\AndersonSoares\Desktop\C# Completo 29.03.2020\seção 8\projeto teste\projeto teste\projeto teste\obj\Debug\netcoreapp3.1\projeto teste.csproj.CoreCompileInputs.cache
+C:\Users\AndersonSoares\Desktop\C# Completo 29.03.2020\seção 8\projeto teste\projeto teste\projeto teste\obj\Debug\netcoreapp3.1\projeto teste.AssemblyInfoInputs.cache
+C:\Users\AndersonSoares\Desktop\C# Completo 29.03.2020\seção 8\projeto teste\projeto teste\projeto teste\obj\Debug\netcoreapp3.1\projeto teste.AssemblyInfo.cs
+C:\Users\AndersonSoares\Desktop\C# Completo 29.03.2020\seção 8\projeto teste\projeto teste\projeto teste\obj\Debug\netcoreapp3.1\projeto teste.dll
+C:\Users\AndersonSoares\Desktop\C# Completo 29.03.2020\seção 8\projeto teste\projeto teste\projeto teste\obj\Debug\netcoreapp3.1\projeto teste.pdb
+C:\Users\AndersonSoares\Desktop\C# Completo 29.03.2020\seção 8\projeto teste\projeto teste\projeto teste\obj\Debug\netcoreapp3.1\projeto teste.genruntimeconfig.cache
